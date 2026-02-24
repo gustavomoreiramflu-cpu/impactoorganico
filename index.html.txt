@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Curso Impacto Orgânico</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0e0e0e;
+      color: #ffffff;
+    }
+
+    header {
+      padding: 70px 20px;
+      text-align: center;
+      background: linear-gradient(135deg, #111, #1b1b1b);
+    }
+
+    header h1 {
+      font-size: 2.4rem;
+      margin-bottom: 15px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: #cfcfcf;
+      max-width: 650px;
+      margin: auto;
+    }
+
+    .price {
+      font-size: 2rem;
+      margin-top: 25px;
+      font-weight: bold;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 40px;
+      background: #25D366;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 30px;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+    }
+
+    .card {
+      background: #1a1a1a;
+      padding: 30px;
+      border-radius: 15px;
+    }
+
+    .card h3 {
+      margin-bottom: 10px;
+    }
+
+    .card p {
+      color: #bdbdbd;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #0a0a0a;
+      font-size: 0.85rem;
+      color: #777;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Curso Impacto Orgânico</h1>
+  <p>
+    Aprenda a vender produtos digitais usando apenas conteúdo, estratégia
+    e posicionamento correto — mesmo começando do zero.
+  </p>
+
+  <div class="price">R$ 197,00</div>
+
+  <a class="btn" href="https://wa.me/55SEUNUMERO" target="_blank">
+    Quero entrar no curso
+  </a>
+</header>
+
+<section>
+  <h2>O que você vai aprender</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>📲 Conteúdo Orgânico</h3>
+      <p>Como atrair pessoas todos os dias sem investir em anúncios.</p>
+    </div>
+
+    <div class="card">
+      <h3>💰 Estrutura de Vendas</h3>
+      <p>Como transformar curiosos em compradores de forma simples.</p>
+    </div>
+
+    <div class="card">
+      <h3>🧠 Autoridade Digital</h3>
+      <p>Como parecer profissional e confiável mesmo sendo iniciante.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Esse curso é para você?</h2>
+  <div class="grid">
+    <div class="card">
+      <p>✔️ Quer ganhar dinheiro no digital</p>
+      <p>✔️ Não quer aparecer</p>
+      <p>✔️ Tem pouco tempo disponível</p>
+      <p>✔️ Quer algo direto e aplicável</p>
+    </div>
+  </div>
+</section>
+
+<section style="text-align:center;">
+  <h2>Investimento único</h2>
+  <p>Acesso completo ao curso por apenas:</p>
+  <div class="price">R$ 197,00</div>
+
+  <a class="btn" href="https://wa.me/55SEUNUMERO" target="_blank">
+    Garantir minha vaga
+  </a>
+</section>
+
+<footer>
+  © 2026 • Curso Impacto Orgânico • Todos os direitos reservados
+</footer>
+
+</body>
+</html>
